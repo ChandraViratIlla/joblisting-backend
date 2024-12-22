@@ -1,0 +1,751 @@
+[
+  {
+    "job_id": "387d450f-e8f3-4deb-8c21-bcebe900d468",
+    "basic_info": {
+      "title": "Python Engineer - Fully Onsite in Houston",
+      "company_name": "Jobot",
+      "location": "Houston, TX",
+      "posted_date": "Posted 18 hours ago |Updated 6 hours ago"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "salary": "USD 150,000.00 - 190,000.00 per year",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Jasmine",
+      "ARM",
+      "Management",
+      "Analytical skill",
+      "Database",
+      "Extract",
+      "transform",
+      "load",
+      "Business development",
+      "Python",
+      "Computer science",
+      "Management information systems",
+      "Data engineering",
+      "Selenium",
+      "PL/SQL",
+      "Stored procedures",
+      "OOD",
+      "Design patterns",
+      "SOA",
+      "Agile",
+      "Scrum",
+      "Issue tracking",
+      "Pandas",
+      "NumPy",
+      "Communication",
+      "Commodities",
+      "Energy",
+      "Docker",
+      "Kubernetes"
+    ],
+    "job_details": {
+      "Description": [
+        "This Jobot Job is hosted by: Jasmine Robinson",
+        "Are you a fit? Easy Apply now by clicking the \"Apply Now\" button and sending us your resume.",
+        "Salary: $150,000 - $190,000 per year",
+        "Our client if a large global organization in the energy industry looking to add to their growing team!",
+        "100% of benefits paid for",
+        "Profit Sharing Program",
+        "Sizable performance bonuses",
+        "Free lunch made by private onsite chefs every day",
+        "State of the arm gym onsite",
+        "Fun, vibrant place to work",
+        "This role is onsite 5 days a week in Houston, TX. This is a full-time direct hire role. C2C is not an option at this time. This positions does not offer relocation.",
+        "We are looking for a talented and motivated Python Data Engineer to help us expand our data assets in support of our analytical capabilities in a full-time role. This role will have the opportunity to interface directly with our traders, analysts, researchers and data scientists to drive out requirements and deliver a wide range of data related needs.",
+        "What you will do:",
+        "Write modular, reusable components to liaise between external sources of data, internal tools and databases",
+        "Work with our business sponsors to drive out requirements for data ingestion and access",
+        "Translate business requirements into technical deliveries",
+        "Maintain the cleanliness and centrality of the Python codebase, while adhering to existing designs and coding conventions as much as possible",
+        "Contribute to our developer tools and Python ETL toolkit, including standardization and consolidation of core functionality",
+        "Efficiently coordinate with the rest of our global team",
+        "Participate in Python development community and act as a liaison for our growing business development efforts",
+        "Qualifications",
+        "6+ years of enterprise-level coding experience with Python",
+        "Computer Science, MIS or related degree",
+        "Experience with Data Engineering and building data pipelines",
+        "Experience scraping websites with Requests, Beautiful Soup, Selenium, etc.",
+        "Oracle / PL SQL development experience including stored procedures",
+        "Strong understating of object-oriented design, design patterns, SOA architectures",
+        "Past experience working in an Agile/Scrum environment",
+        "Proficient understanding of peer-reviewing, code versioning, and bug/issue tracking tools.",
+        "Familiarity with Pandas and NumPy packages",
+        "Strong communication skills (written and verbal)",
+        "Commodities/Energy Industry experience desired",
+        "Familiarity with containerization solutions like Docker and Kubernetes is a plus",
+        "Interested in hearing more? Easy Apply now by clicking the \"Apply Now\" button."
+      ]
+    },
+    "metadata": {
+      "dice_id": "91113390",
+      "position_id": "1788732507"
+    }
+  },
+  {
+    "job_id": "d62f56ce-f3cb-4aef-a01e-b23af982643a",
+    "basic_info": {
+      "title": "Python Engineer",
+      "company_name": "Jobot",
+      "location": "Chicago, IL",
+      "posted_date": "Posted 18 hours ago |Updated 6 hours ago"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "salary": "USD 130,000.00 - 200,000.00 per year",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Algorithms",
+      "Design architecture",
+      "Technical writing",
+      "Finance",
+      "Trading",
+      "Ansible",
+      "Real-time",
+      "Messaging",
+      "RabbitMQ",
+      "Management",
+      "Docker",
+      "Auditing",
+      "Jenkins",
+      "Log management",
+      "Database administration",
+      "MongoDB",
+      "SQL",
+      "Scripting",
+      "Data Analysis",
+      "Pandas",
+      "scikit-learn",
+      "CentOS",
+      "Linux",
+      "Servers",
+      "Bash",
+      "cron",
+      "Secure Shell",
+      "SCP",
+      "Python",
+      "NumPy",
+      "TensorFlow",
+      "CQG",
+      "InfiniBand",
+      "API"
+    ],
+    "job_details": {
+      "Description": [
+        "This Jobot Job is hosted by: Ryan Kilroy",
+        "Are you a fit? Easy Apply now by clicking the \"Apply Now\" button and sending us your resume.",
+        "Salary: $130,000 - $200,000 per year",
+        "We are a growing Trading firm with a product focused mindset centered around our technology and strategies. We do our very best to create, code, and implement robust trading strategies in the financial markets. We cannot be successful without all three and this is the never-ending challenge, to stay ahead of the game.",
+        "We are a small, highly capable, and hungry family that is looking to grow our teams with passionate individuals who are looking to bet on themselves and learn from the best!",
+        "The ideal hire is an experienced Python developer - someone who knows how to code, understands algorithms, and can follow instructions, but also can do design, architecture, analysis, and technical documentation. Hire should be proactive, dedicated, and knowledgeable. We tend to favor hires who can do multiple tasks (generalist) rather than one task (specialist).",
+        "You will have the opportunity to grow within the organization, have immediate impact, and the chance to yield the benefits of delivering your own trading strategies into production.",
+        "Prior financial market/proprietary trading knowledge is necessary. Hire will help our lead developer with the coding of new strategies as well as system admin tasks - e.g. server config (Ansible), real-time messaging (RabbitMQ), task management (Airflow), micro services (Docker), system auditing, deploy automation (Jenkins), log management, database management (MongoDB, SQL), Python scripting, data analysis (Pandas, Scikit-Learn), etc. We strongly prefer hires with knowledge of Centos (Linux Distro) for remote servers, terminal/bash, crontab, systemd, SSH and SCP, Python 3.0, NumPy, TensorFlow, Click, IQfeed, CQG, IB, TradeStation, and especially Rithmic (API)",
+        "Interested in hearing more? Easy Apply now by clicking the \"Apply Now\" button."
+      ]
+    },
+    "metadata": {
+      "dice_id": "91113390",
+      "position_id": "1800415109"
+    }
+  },
+  {
+    "job_id": "26e11d69-c89a-421f-a4d8-febbb2c04ac8",
+    "basic_info": {
+      "title": "Engineering Manager - Public Cloud, Python, Golang"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "AIM",
+      "Microsoft",
+      "Web servers",
+      "GPU",
+      "Servers",
+      "Virtual machines",
+      "IT management",
+      "Fluency",
+      "Documentation",
+      "As-is process",
+      "Coaching",
+      "Audio engineering",
+      "Management",
+      "Leadership",
+      "Collaboration",
+      "Testing",
+      "Mentorship",
+      "Agile",
+      "Computer science",
+      "Software development",
+      "Python",
+      "Golang",
+      "Communication",
+      "Microsoft Azure",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Amazon Web Services",
+      "Sprint",
+      "Training and development",
+      "Budget",
+      "PASS",
+      "Ubuntu",
+      "Open source",
+      "Artificial intelligence",
+      "IoT",
+      "Cloud computing",
+      "SAP BASIS",
+      "Expect"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "cdec66bf"
+    }
+  },
+  {
+    "job_id": "d534e4c7-3e75-46f9-8cec-4923f014b58f",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "29900ee81"
+    }
+  },
+  {
+    "job_id": "392644c2-eaf6-4f7b-9444-8d5a5dff1d31",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "0396b4441"
+    }
+  },
+  {
+    "job_id": "c84fbb0c-f99e-4888-977c-7d7afb717260",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "426675301"
+    }
+  },
+  {
+    "job_id": "f74b6103-2dbe-4f2e-a3f6-424b1df35cb6",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "512a559b1"
+    }
+  },
+  {
+    "job_id": "28bcbd44-4bbb-4b6c-b495-fcbbf6121926",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "3fafd7951"
+    }
+  },
+  {
+    "job_id": "61285681-290b-46f1-830f-302b269be71f",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "084fb31f1"
+    }
+  },
+  {
+    "job_id": "65eaa192-20ea-4849-b28a-452364f5a364",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "feb776c01"
+    }
+  },
+  {
+    "job_id": "7477140d-8ad6-4c1f-9168-18f4aa1a4eb6",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "8f3d45841"
+    }
+  },
+  {
+    "job_id": "bc176428-171a-43b6-8fc1-fb919f7f0a80",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "0373db631"
+    }
+  },
+  {
+    "job_id": "573be5ee-ae8f-45ce-ab5f-856726620efe",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "a6ca179a1"
+    }
+  },
+  {
+    "job_id": "4d15c220-bf9c-4992-8e8c-260493caf172",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "6dac4da61"
+    }
+  },
+  {
+    "job_id": "a9c0de76-7143-44d1-bdc6-5cdaf5f49821",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "a5112e051"
+    }
+  },
+  {
+    "job_id": "74c276c7-ece0-4a51-bde1-6ce5980cf820",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "d15c1aac1"
+    }
+  },
+  {
+    "job_id": "d1097fd7-9d11-42a0-b617-2de28afa538b",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "86a1383c1"
+    }
+  },
+  {
+    "job_id": "42e58dab-eaa2-4c22-861b-759f492e89d0",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "d3b600251"
+    }
+  },
+  {
+    "job_id": "95b32df2-daa0-4bb2-a1da-ee66fae43f27",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "f5339a501"
+    }
+  },
+  {
+    "job_id": "b4324a1f-6bf3-41ad-b357-284d81d65a4b",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "d4ff431f1"
+    }
+  },
+  {
+    "job_id": "54b9dbb4-0406-4035-beed-4828e29974e7",
+    "basic_info": {
+      "title": "Senior Software Engineer - Python/MongoDB"
+    },
+    "overview": {
+      "work_type": "On Site",
+      "employment_type": "Full Time"
+    },
+    "skills": [
+      "Amazon Web Services",
+      "Juju",
+      "Virtual machines",
+      "Cloud computing",
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "Linux administration",
+      "Management",
+      "Testing",
+      "Value engineering",
+      "Open source",
+      "Ubuntu"
+    ],
+    "job_details": {},
+    "metadata": {
+      "dice_id": "zipfeed1",
+      "position_id": "afeff6301"
+    }
+  }
+]
